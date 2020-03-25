@@ -10,3 +10,5 @@
 [정제된 nifti 폴더들로부터 feature 추출 및 csv 저장](https://github.com/YoonhoNam/cmcradiomics/blob/master/pyradiomics/examples/extract_features_from_multiple_nifti.ipynb)
 
 [csv결과로부터 clustered feature map 보기](https://github.com/YoonhoNam/cmcradiomics/blob/master/pyradiomics/examples/display_clustered_features_from_csv_results.ipynb)
+
+[nifti파일 image processing - mask: erosion/dilation](https://github.com/YoonhoNam/cmcradiomics/blob/master/cmcradiomics/processing/dip_nifti_dilation.ipynb)

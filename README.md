@@ -11,4 +11,4 @@
 
 [csv결과로부터 clustered feature map 보기](https://github.com/YoonhoNam/cmcradiomics/blob/master/pyradiomics/examples/display_clustered_features_from_csv_results.ipynb)
 
-[nifti파일 image processing - mask: erosion/dilation](https://github.com/YoonhoNam/cmcradiomics/blob/master/cmcradiomics/processing/dip_nifti_dilation.ipynb)
+[nifti파일 image processing - mask: erosion/dilation](https://github.com/YoonhoNam/cmcradiomics/blob/master/processing/dip_nifti_dilation.ipynb)

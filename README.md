@@ -17,6 +17,8 @@
 
 [여러 환자의 nifti파일 image processing - mask: erosion/dilation](https://github.com/YoonhoNam/cmcradiomics/blob/master/processing/multi/dip_nifti_dilation_multi.ipynb)
 
+[여러 환자의 nifti파일 image processing - adding noise](https://github.com/YoonhoNam/cmcradiomics/blob/master/processing/multi/dip_nifti_addnoise_multi.ipynb)
+
 ## Pyradiomics notebook 예제 (https://github.com/Radiomics)
 
 [Example of using the Pyradiomics toolbox](https://github.com/Radiomics/pyradiomics/blob/master/notebooks/PyRadiomicsExample.ipynb)
